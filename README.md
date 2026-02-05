@@ -1,28 +1,38 @@
 # Olá, eu sou o Eric! 👋
 
-### 🎓 Estudante de Sistemas de Informação na PUC Minas (3º Período)
-**Foco em Desenvolvimento C# | .NET | Infraestrutura Linux**
+<p align="left">
+  <img src="https://img.shields.io/badge/C%23-239120?style=for-the-badge&logo=c-sharp&logoColor=white" />
+  <img src="https://img.shields.io/badge/.NET-512BD4?style=for-the-badge&logo=dotnet&logoColor=white" />
+  <img src="https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black" />
+  <img src="https://img.shields.io/badge/Ubuntu-E94333?style=for-the-badge&logo=ubuntu&logoColor=white" />
+  <img src="https://img.shields.io/badge/Visual_Studio-5C2D91?style=for-the-badge&logo=visual-studio&logoColor=white" />
+</p>
 
-Atualmente cursando o terceiro período, estou aprofundando meus conhecimentos em lógica de programação, estruturas de dados e desenvolvimento de software. Tenho forte interesse em automação e otimização de sistemas.
-
----
-
-## 🛠️ Habilidades em Destaque
-* **Linguagens:** C# (.NET), Lógica de Programação avançada.
-* **Sistemas:** Administração básica de Linux (Ubuntu), Dual Boot e Troubleshooting.
-* **Ferramentas:** Visual Studio Code, Visual Studio 2026, GitHub, Git.
-
----
-
-## 🚀 Projetos em Desenvolvimento
-* **MTA Booster 2.0**: Ferramenta de macros em C# focada em automação e facilitar jogadores.
-* **Gerenciador de Listas**: Implementação de algoritmos de manipulação de dados e estatísticas.
+### 🎓 Formação Acadêmica
+* **Sistemas de Informação** na **PUC Minas**
+* Atualmente cursando o **3º período**
+* Previsão de conclusão: **01/2029**
 
 ---
 
-## 📬 Vamos nos conectar?
-* **LinkedIn:** https://www.linkedin.com/in/eriicabreu/
-* **Email:** ericgualberto1227@gmail.com
+### 🛠️ Diferenciais e Habilidades
+* **Desenvolvimento:** Foco em **C# e ecossistema .NET**.
+* **Infraestrutura:** Experiência com **Linux (Ubuntu)**, Dual Boot e gerenciamento de drivers.
+* **Hardware:** Conhecimento técnico em periféricos de alta performance.
+* **Troubleshooting:** Experiência em resolução de erros de software e integração de sistemas.
 
 ---
-*Em busca da minha primeira oportunidade de estágio para aplicar conhecimentos teóricos em desafios reais.*
+
+### 🚀 Projetos em Destaque
+* **MTA Booster 2.0:** Ferramenta desenvolvida em **C#** focada em otimização, macros e automação.
+* **Gerenciador de Listas:** Projeto para manipulação de múltiplas listas com foco em algoritmos e estatísticas.
+
+---
+
+### 📬 Contato
+* 📧 **Email:** ericgualberto1227@gmail.com
+* 💼 **LinkedIn:** [Eric Abreu](https://www.linkedin.com/in/eriicabreu/)
+* 📍 **Localização:** Contagem, MG
+
+---
+*Buscando ativamente oportunidades de estágio em Desenvolvimento de Software e Infraestrutura.*
