@@ -15,7 +15,7 @@ Atualmente cursando o terceiro período, estou aprofundando meus conhecimentos e
 ---
 
 ## 🚀 Projetos em Desenvolvimento
-* **MTA Booster 2.0**: Ferramenta de otimização em C# focada em performance e estabilidade.
+* **MTA Booster 2.0**: Ferramenta de macros em C# focada em automação e facilitar jogadores.
 * **Gerenciador de Listas**: Implementação de algoritmos de manipulação de dados e estatísticas.
 
 ---
