@@ -21,8 +21,8 @@ Atualmente cursando o terceiro período, estou aprofundando meus conhecimentos e
 ---
 
 ## 📬 Vamos nos conectar?
-* **LinkedIn:** [(https://www.linkedin.com/in/eriicabreu/)]
-* **Email:** [(ericgualberto1227@gmail.com)]
+* **LinkedIn:** https://www.linkedin.com/in/eriicabreu/
+* **Email:** ericgualberto1227@gmail.com
 
 ---
 *Em busca da minha primeira oportunidade de estágio para aplicar conhecimentos teóricos em desafios reais.*
