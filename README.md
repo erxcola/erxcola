@@ -10,7 +10,7 @@ Atualmente cursando o terceiro período, estou aprofundando meus conhecimentos e
 ## 🛠️ Habilidades em Destaque
 * **Linguagens:** C# (.NET), Lógica de Programação avançada.
 * **Sistemas:** Administração básica de Linux (Ubuntu), Dual Boot e Troubleshooting.
-* **Ferramentas:** Visual Studio 2022, GitHub, Git.
+* **Ferramentas:** Visual Studio Code, Visual Studio 2026, GitHub, Git.
 
 ---
 
